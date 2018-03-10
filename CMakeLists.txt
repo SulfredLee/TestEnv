@@ -18,5 +18,6 @@ endif ()
 
 
 # Sub-directories where more CMakeLists.txt exist
-# add_subdirectory(TranslationUnit_C)
+add_subdirectory(TranslationUnit_C)
 add_subdirectory(TranslationUnit_Cpp)
+add_subdirectory(TestIncludeArray)
