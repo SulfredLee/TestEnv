@@ -1,5 +1,5 @@
 #include "abc.h"
 
-void printABC(){
+static void printABC(){
     fprintf(stdout, "This is ABC\n");
 }

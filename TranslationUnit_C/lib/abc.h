@@ -1,3 +1,3 @@
 #include <stdio.h>
-
-void printABC();
+static int abc_x;
+static void printABC();
