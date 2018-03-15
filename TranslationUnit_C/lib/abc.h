@@ -1,3 +1,3 @@
 #include <stdio.h>
-static int abc_x;
+void printABCProxy();
 static void printABC();

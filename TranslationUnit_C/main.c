@@ -4,7 +4,7 @@
 
 int main(int argc, char* argv[]){
     printFoo();
-    //printABC();
-    printf("Here is abc_a: %d\n", abc_x);
+    printABCProxy();
+    //printf("Here is abc_a: %d\n", abc_x);
     return 0;
 }
